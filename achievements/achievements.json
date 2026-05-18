@@ -1,0 +1,357 @@
+{
+  "killers": {
+    "general": {
+      "a_bite_for_the_entity": {
+        "unlocked": false,
+        "progress": 88,
+        "goal": 100
+      },
+      "a_fast_death": true,
+      "a_feast_for_the_entity": {
+        "unlocked": false,
+        "progress": 88,
+        "goal": 1000
+      },
+      "apt_killer": true,
+      "awakened_anger": true,
+      "beyond_broken": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 50
+      },
+      "blood_on_your_hands": true,
+      "broken_bodies": {
+        "unlocked": false,
+        "progress": 7,
+        "goal": 10
+      },
+      "chorus_of_chaos": true,
+      "deadly_obsession": {
+        "unlocked": false,
+        "progress": 89,
+        "goal": 300
+      },
+      "deadly_plunge": {
+        "unlocked": false,
+        "progress": 208,
+        "goal": 1000
+      },
+      "death_flight": {
+        "unlocked": false,
+        "progress": 2,
+        "goal": 20
+      },
+      "death_of_ignorance": true,
+      "denied": {
+        "unlocked": false,
+        "progress": 6,
+        "goal": 30
+      },
+      "devoted_gatekeeping": {
+        "unlocked": false,
+        "progress": 10,
+        "goal": 15
+      },
+      "disarm_and_dismember": {
+        "unlocked": false,
+        "progress": 3,
+        "goal": 50
+      },
+      "end_of_days": {
+        "unlocked": false,
+        "progress": 13,
+        "goal": 15
+      },
+      "from_the_deep": {
+        "unlocked": false,
+        "progress": 8,
+        "goal": 25
+      },
+      "game_over": {
+        "unlocked": false,
+        "progress": 15,
+        "goal": 30
+      },
+      "ghost_in_the_machine": true,
+      "heavy_burden": {
+        "unlocked": false,
+        "progress": 24,
+        "goal": 25
+      },
+      "high_speed_pursuit": {
+        "unlocked": false,
+        "progress": 7,
+        "goal": 50
+      },
+      "i_see_you": {
+        "unlocked": false,
+        "progress": 2,
+        "goal": 30
+      },
+      "lost_all_hope": true,
+      "master_manipulator": true,
+      "multi_tasker": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 30
+      },
+      "neither_seen_nor_heard": {
+        "unlocked": false,
+        "progress": 11,
+        "goal": 30
+      },
+      "none_the_wiser": true,
+      "outrage": {
+        "unlocked": false,
+        "progress": 60,
+        "goal": 100
+      },
+      "party_crasher": true,
+      "perfect_killing": true,
+      "preemptive_strike": true,
+      "prized_possession": true,
+      "serial_killer": {
+        "unlocked": false,
+        "progress": 23,
+        "goal": 30
+      },
+      "share_the_pain": true,
+      "silent_approach": {
+        "unlocked": false,
+        "progress": 9,
+        "goal": 25
+      },
+      "taste_the_darkness": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 10
+      },
+      "texas_bbq": {
+        "unlocked": false,
+        "progress": 18,
+        "goal": 25
+      },
+      "the_grand_sacrifice": true,
+      "what_lurks_beneath": {
+        "unlocked": false,
+        "progress": 9,
+        "goal": 25
+      }
+    },
+    "extra": {
+      "in_the_void_she_walks": {
+        "unlocked": false,
+        "progress": 446,
+        "goal": 500
+      },
+      "jump_scares": true,
+      "swirling_death": {
+        "unlocked": false,
+        "progress": 125,
+        "goal": 1000
+      }
+    }
+  },
+  "survivors": {
+    "map": {
+      "classy_act": true,
+      "dont_open_dead_inside": true,
+      "flight_to_freedom": true,
+      "unforgettable_getaway": true
+    },
+    "general": {
+      "agonizing_escape": true,
+      "apt_survivor": true,
+      "bloodied_hands": {
+        "unlocked": false,
+        "progress": 2,
+        "goal": 10
+      },
+      "bodyguard": {
+        "unlocked": false,
+        "progress": 11,
+        "goal": 30
+      },
+      "close_shave": true,
+      "cutting_out": true,
+      "desperate_escape": {
+        "unlocked": false,
+        "progress": 8,
+        "goal": 15
+      },
+      "dismantle": {
+        "unlocked": false,
+        "progress": 3,
+        "goal": 50
+      },
+      "engineer": {
+        "unlocked": false,
+        "progress": 19,
+        "goal": 50
+      },
+      "escaping_the_nightmare": {
+        "unlocked": false,
+        "progress": 11,
+        "goal": 35
+      },
+      "ever_vigilant": {
+        "unlocked": false,
+        "progress": 13,
+        "goal": 20
+      },
+      "every_last_drop": {
+        "unlocked": false,
+        "progress": 10,
+        "goal": 30
+      },
+      "expert_survivor": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 45
+      },
+      "fearless_healer": {
+        "unlocked": false,
+        "progress": 20,
+        "goal": 25
+      },
+      "final_days": true,
+      "hand_eye_coordination": true,
+      "handyman": {
+        "unlocked": false,
+        "progress": 80,
+        "goal": 100
+      },
+      "healthy_obsession": true,
+      "hero_of_wallachia": {
+        "unlocked": false,
+        "progress": 8,
+        "goal": 10
+      },
+      "honor_the_bloodline": true,
+      "humanitarian": true,
+      "ive_got_your_back": true,
+      "insult_and_injury": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 50
+      },
+      "kitted_out": {
+        "unlocked": false,
+        "progress": 3,
+        "goal": 35
+      },
+      "leapfrog": {
+        "unlocked": false,
+        "progress": 17,
+        "goal": 200
+      },
+      "legendary_survivor": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 85
+      },
+      "lifting_the_fog": true,
+      "looter": {
+        "unlocked": false,
+        "progress": 13,
+        "goal": 100
+      },
+      "made_it_out_alive": {
+        "unlocked": false,
+        "progress": 28,
+        "goal": 100
+      },
+      "make_some_noise": true,
+      "master_survivor": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 65
+      },
+      "medic": true,
+      "near_death_experience": {
+        "unlocked": false,
+        "progress": 20,
+        "goal": 25
+      },
+      "nerves_of_steel": true,
+      "no_one_left_behind": true,
+      "one_more_step": true,
+      "perfect_escape": true,
+      "power_moves": {
+        "unlocked": false,
+        "progress": 3,
+        "goal": 8
+      },
+      "practice_makes_perfect": true,
+      "rescue_mission": true,
+      "resurgence": true,
+      "second_act": true,
+      "selfless_survival": true,
+      "shine_on": {
+        "unlocked": false,
+        "progress": 9,
+        "goal": 30
+      },
+      "sorted": true,
+      "stranger_sightings": true,
+      "survival_treasures": true,
+      "taking_one_for_the_team": {
+        "unlocked": false,
+        "progress": 63,
+        "goal": 250
+      },
+      "the_show_must_go_on": true,
+      "triage": {
+        "unlocked": false,
+        "progress": 3,
+        "goal": 30
+      },
+      "under_pressure": {
+        "unlocked": false,
+        "progress": 16,
+        "goal": 20
+      },
+      "vulture": true,
+      "whiffing_to_success": {
+        "unlocked": false,
+        "progress": 1,
+        "goal": 50
+      },
+      "with_scars_to_show": {
+        "unlocked": false,
+        "progress": 27,
+        "goal": 50
+      },
+      "working_overtime": true,
+      "wounded_healer": true,
+      "a_worthy_opponent": true,
+      "devoted_caretaker": true
+    }
+  },
+  "general": {
+    "general": {
+      "blood_in_your_mouth": {
+        "unlocked": false,
+        "progress": 18,
+        "goal": 25
+      },
+      "blood_on_your_face": {
+        "unlocked": false,
+        "progress": 18,
+        "goal": 4
+      },
+      "bloody_millionaire": true,
+      "first_to_the_punch": true,
+      "getting_the_hang_of_it": true,
+      "gifts_for_the_fog": true,
+      "i": true,
+      "ii": true,
+      "iii": true,
+      "iii_50": true,
+      "it_wakes": true,
+      "not_half_bad": true,
+      "skillful": true,
+      "zealous": true
+    }
+  }
+}

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>DBD Achievements — nurse goes blink</title>
+  <meta name="description" content="nurse goes blink's Dead by Daylight achievements tracker.">
+  <meta name="theme-color" content="#07111d">
+
+  <link rel="canonical" href="https://deadbydaylight_alt.sic4riodragon.uk/achievements/">
+  <link rel="stylesheet" href="./achievements.css?v=1">
+
+  <link rel="icon" type="image/png" href="https://deadbydaylight.sic4riodragon.uk/assets/img/deadbydaylight_icon.png">
+  <link rel="shortcut icon" href="https://deadbydaylight.sic4riodragon.uk/assets/img/deadbydaylight_icon.png">
+  <link rel="apple-touch-icon" href="https://deadbydaylight.sic4riodragon.uk/assets/img/deadbydaylight_icon.png">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Sic4rioDragon.uk">
+  <meta property="og:title" content="Dead by Daylight • Achievements • nurse goes blink">
+  <meta property="og:description" content="Alt Dead by Daylight achievements tracker.">
+  <meta property="og:url" content="https://deadbydaylight_alt.sic4riodragon.uk/achievements/">
+  <meta property="og:image" content="https://deadbydaylight.sic4riodragon.uk/assets/img/banner1.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+  <div class="page-bg"></div>
+
+  <main class="page-shell">
+    <section class="hero">
+      <a class="hero-art hero-art-link" href="https://deadbydaylight.sic4riodragon.uk/survivors.html">
+        <img src="https://deadbydaylight.sic4riodragon.uk/assets/img/yui.png" alt="Yui Kimura">
+      </a>
+
+      <div class="hero-copy">
+        <h1>Achievements</h1>
+        <p class="subtitle">nurse goes blink's Dead by Daylight achievements</p>
+
+        <nav class="hero-nav" aria-label="Dead by Daylight links">
+          <a href="https://deadbydaylight.sic4riodragon.uk/">Main DBD</a>
+          <a href="https://deadbydaylight.sic4riodragon.uk/survivors.html">Survivors</a>
+          <a href="https://deadbydaylight.sic4riodragon.uk/">Killers</a>
+          <a href="https://sic4riodragon.uk/twitch/deadbydaylight/">Challenges</a>
+          <a class="active" href="/achievements/">Alt achievements</a>
+        </nav>
+      </div>
+
+      <a class="hero-art hero-art-link" href="https://deadbydaylight.sic4riodragon.uk/">
+        <img src="https://deadbydaylight.sic4riodragon.uk/assets/img/huntress.png" alt="The Huntress">
+      </a>
+    </section>
+
+    <section class="toolbar card">
+      <div class="stats">
+        <div class="stat">
+          <span>Unlocked</span>
+          <strong id="countUnlocked">0</strong>
+        </div>
+        <div class="stat">
+          <span>Locked</span>
+          <strong id="countLocked">0</strong>
+        </div>
+        <div class="stat">
+          <span>Shown</span>
+          <strong id="countShown">0</strong>
+        </div>
+      </div>
+
+      <div class="toolbar-actions">
+        <input id="searchInput" type="search" placeholder="Search achievements...">
+
+        <select id="filterSelect">
+          <option value="all">All filters</option>
+          <option value="killer">Killer only</option>
+          <option value="survivor">Survivor only</option>
+          <option value="general">General only</option>
+          <option value="adept">Adept only</option>
+          <option value="map">Map only</option>
+          <option value="extra">Extra only</option>
+          <option value="general-section">General section only</option>
+        </select>
+
+        <label class="check">
+          <input id="toggleUnlocked" type="checkbox">
+          <span>Show all</span>
+        </label>
+      </div>
+    </section>
+
+    <section class="summary-grid">
+      <details class="card mini-panel">
+        <summary>
+          <span>Killer summary</span>
+          <span id="killerSummaryCounts">0 locked</span>
+        </summary>
+        <div id="killerSummary" class="summary-list"></div>
+      </details>
+
+      <details class="card mini-panel">
+        <summary>
+          <span>Survivor summary</span>
+          <span id="survivorSummaryCounts">0 locked</span>
+        </summary>
+        <div id="survivorSummary" class="summary-list"></div>
+      </details>
+
+      <details class="card mini-panel">
+        <summary>
+          <span>General summary</span>
+          <span id="generalSummaryCounts">0 locked</span>
+        </summary>
+        <div id="generalSummary" class="summary-list"></div>
+      </details>
+    </section>
+
+    <section class="content-stack">
+      <article class="card category-card">
+        <h2>Killer achievements</h2>
+        <div id="killerSections" class="section-stack"></div>
+      </article>
+
+      <article class="card category-card">
+        <h2>Survivor achievements</h2>
+        <div id="survivorSections" class="section-stack"></div>
+      </article>
+
+      <article class="card category-card">
+        <h2>General achievements</h2>
+        <div id="generalSections" class="section-stack"></div>
+      </article>
+    </section>
+  </main>
+
+  <script src="./achievements.js?v=1"></script>
+</body>
+</html>
