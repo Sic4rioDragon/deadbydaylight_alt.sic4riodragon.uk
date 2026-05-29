@@ -1,5 +1,207 @@
 {
   "killers": {
+    "adept": {
+      "adept_animatronic": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_artist": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_blight": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_cannibal": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_clown": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_dark_lord": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_deathslinger": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_doctor": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_dredge": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_executioner": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_first": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_ghost_face": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_ghoul": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_good_guy": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_hag": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_hillbilly": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_houndmaster": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_huntress": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_knight": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_krasue": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_legion": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_lich": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_mastermind": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_nemesis": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_nightmare": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_nurse": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_oni": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_onryo": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_pig": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_plague": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_singularity": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_skull_merchant": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_spirit": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_trapper": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_trickster": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_twins": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_unknown": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_wraith": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_xenomorph": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "tools_of_the_trade": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 5
+      }
+    },
     "general": {
       "a_bite_for_the_entity": {
         "unlocked": false,
@@ -26,6 +228,11 @@
         "goal": 10
       },
       "chorus_of_chaos": true,
+      "complete_the_evolution": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "deadly_obsession": {
         "unlocked": false,
         "progress": 89,
@@ -62,6 +269,11 @@
         "progress": 13,
         "goal": 15
       },
+      "expert_killer": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 45
+      },
       "from_the_deep": {
         "unlocked": false,
         "progress": 8,
@@ -88,7 +300,22 @@
         "progress": 2,
         "goal": 30
       },
+      "jokes_on_you": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
+      "legendary_killer": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 85
+      },
       "lost_all_hope": true,
+      "master_killer": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 65
+      },
       "master_manipulator": true,
       "multi_tasker": {
         "unlocked": false,
@@ -106,10 +333,25 @@
         "progress": 60,
         "goal": 100
       },
+      "outta_nowhere": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 40
+      },
       "party_crasher": true,
       "perfect_killing": true,
       "preemptive_strike": true,
       "prized_possession": true,
+      "prowler": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
+      "quick_draw": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
       "serial_killer": {
         "unlocked": false,
         "progress": 23,
@@ -139,29 +381,591 @@
       }
     },
     "extra": {
+      "battle_caster": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 25
+      },
+      "binding_teeth": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "biological_weaponry": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 65
+      },
+      "bloodbath": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 75
+      },
+      "bound_and_downed": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "bump_in_the_night": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "butcherin": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
+      "caws_of_death": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "cleansed_in_agony": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "collision_course": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
+      "conniption": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "cripple_them_all": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
+      "cruelty_loves_company": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "deranged_pursuit": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 25
+      },
+      "dream_demon": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 200
+      },
+      "even_punishment": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "from_the_void_she_kills": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "i_want_to_play_a_game": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 125
+      },
       "in_the_void_she_walks": {
         "unlocked": false,
         "progress": 446,
         "goal": 500
       },
+      "jump_scared": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 15
+      },
       "jump_scares": true,
+      "mad_house": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "one_thousand_cuts": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "prey_upon": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 20
+      },
+      "remember_who_i_am": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "rightful_owner": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "shocking_treatment": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 500
+      },
+      "skilled_huntress": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 20
+      },
+      "slip_into_the_stream": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "smoked": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
+      "speed_kills": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
       "swirling_death": {
         "unlocked": false,
         "progress": 125,
         "goal": 1000
+      },
+      "symphony_of_fire": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 20
+      },
+      "tag_team": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
+      "terminal_illness": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "terror_of_lv_426": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "the_grind": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
+      "thrill_of_the_chase": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
+      "torn_asunder": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "totally_vulnerable": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
+      "triggered": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 300
+      },
+      "viral_video": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
+      "youve_got_guts": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 20
       }
     }
   },
   "survivors": {
+    "adept": {
+      "adept_ace": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_ada": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_adam": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_alan": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_ash": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_bill": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_cage": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_cheryl": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_claudette": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_david": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_dustin": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_dwight": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_eleven": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_felix": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_gabriel": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_haddie": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_jake": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_jane": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_jeff": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_jill": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_jonah": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_kate": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_lara": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_leon": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_meg": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_michonne": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_mikaela": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_min": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_nea": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_orela": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_quentin": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_rebecca": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_renato": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_rick": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_ripley": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_sable": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_tapp": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_taurie": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_thalita": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_trevor": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_troupe": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_vee": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_vittorio": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_yoichi": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_yui": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_yun_jin": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_zarina": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_e_lodie": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "adept_tae_young": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      }
+    },
     "map": {
+      "all_aboard": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "ancestors_rite": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "campbells_chapel_legacy": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "cherish_your_life": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "classy_act": true,
+      "cottage_owner": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "dont_open_dead_inside": true,
+      "dungeon_crawler": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "escape_artist": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "extraterrestrial": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "flight_to_freedom": true,
+      "grim_pilgrimage": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "hack_the_mainframe": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "hemophobia": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "movie_buff": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "mu_th_ur_dearest": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "old_west_oasis": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "operation_survival": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "outbreak_breakout": {
+        "unlocked": false,
+        "progress": 2,
+        "goal": 20
+      },
+      "outrun_the_overlap": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "raccoon_city_recruit": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "rebuilding_the_borgo": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "shock_therapy": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "shrine_apparatus": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "unforgettable_getaway": true
     },
     "general": {
       "agonizing_escape": true,
       "apt_survivor": true,
+      "backdoor_escape": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "bless_you": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 20
+      },
       "bloodied_hands": {
         "unlocked": false,
         "progress": 2,
@@ -169,11 +973,21 @@
       },
       "bodyguard": {
         "unlocked": false,
-        "progress": 11,
+        "progress": 14,
         "goal": 30
+      },
+      "break_for_it": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 5
       },
       "close_shave": true,
       "cutting_out": true,
+      "deep_cleansing": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 100
+      },
       "desperate_escape": {
         "unlocked": false,
         "progress": 8,
@@ -191,7 +1005,7 @@
       },
       "escaping_the_nightmare": {
         "unlocked": false,
-        "progress": 11,
+        "progress": 13,
         "goal": 35
       },
       "ever_vigilant": {
@@ -204,9 +1018,19 @@
         "progress": 10,
         "goal": 30
       },
+      "expert_generalist": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 8
+      },
+      "skilled_generalist": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 8
+      },
       "expert_survivor": {
         "unlocked": false,
-        "progress": 5,
+        "progress": 12,
         "goal": 45
       },
       "fearless_healer": {
@@ -215,10 +1039,15 @@
         "goal": 25
       },
       "final_days": true,
+      "fleet_of_foot": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 50
+      },
       "hand_eye_coordination": true,
       "handyman": {
         "unlocked": false,
-        "progress": 80,
+        "progress": 93,
         "goal": 100
       },
       "healthy_obsession": true,
@@ -226,6 +1055,11 @@
         "unlocked": false,
         "progress": 8,
         "goal": 10
+      },
+      "hiding_seeker": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 35
       },
       "honor_the_bloodline": true,
       "humanitarian": true,
@@ -235,6 +1069,16 @@
         "progress": 5,
         "goal": 50
       },
+      "item_of_obsession": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
+      "key_to_success": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "kitted_out": {
         "unlocked": false,
         "progress": 3,
@@ -242,12 +1086,17 @@
       },
       "leapfrog": {
         "unlocked": false,
-        "progress": 17,
+        "progress": 18,
         "goal": 200
+      },
+      "left_for_dead": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
       },
       "legendary_survivor": {
         "unlocked": false,
-        "progress": 5,
+        "progress": 12,
         "goal": 85
       },
       "lifting_the_fog": true,
@@ -258,24 +1107,39 @@
       },
       "made_it_out_alive": {
         "unlocked": false,
-        "progress": 28,
+        "progress": 30,
         "goal": 100
       },
       "make_some_noise": true,
       "master_survivor": {
         "unlocked": false,
-        "progress": 5,
+        "progress": 12,
         "goal": 65
       },
       "medic": true,
+      "milk_n_cookies": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 30
+      },
       "near_death_experience": {
         "unlocked": false,
-        "progress": 20,
+        "progress": 21,
         "goal": 25
       },
       "nerves_of_steel": true,
       "no_one_left_behind": true,
+      "not_today": {
+        "unlocked": false,
+        "progress": 2,
+        "goal": 50
+      },
       "one_more_step": true,
+      "outrun_evil": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "perfect_escape": true,
       "power_moves": {
         "unlocked": false,
@@ -284,7 +1148,17 @@
       },
       "practice_makes_perfect": true,
       "rescue_mission": true,
+      "resourceful": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 10
+      },
       "resurgence": true,
+      "risk_it_all": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "second_act": true,
       "selfless_survival": true,
       "shine_on": {
@@ -297,8 +1171,13 @@
       "survival_treasures": true,
       "taking_one_for_the_team": {
         "unlocked": false,
-        "progress": 63,
+        "progress": 68,
         "goal": 250
+      },
+      "the_key_to_escape": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
       },
       "the_show_must_go_on": true,
       "triage": {
@@ -306,11 +1185,7 @@
         "progress": 3,
         "goal": 30
       },
-      "under_pressure": {
-        "unlocked": false,
-        "progress": 16,
-        "goal": 20
-      },
+      "under_pressure": true,
       "vulture": true,
       "whiffing_to_success": {
         "unlocked": false,
@@ -319,7 +1194,7 @@
       },
       "with_scars_to_show": {
         "unlocked": false,
-        "progress": 27,
+        "progress": 28,
         "goal": 50
       },
       "working_overtime": true,
@@ -344,6 +1219,16 @@
       "first_to_the_punch": true,
       "getting_the_hang_of_it": true,
       "gifts_for_the_fog": true,
+      "happy_holidays": {
+        "unlocked": false,
+        "progress": 5,
+        "goal": 100
+      },
+      "holiday_get_together": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "i": true,
       "ii": true,
       "iii": true,
@@ -351,6 +1236,11 @@
       "it_wakes": true,
       "not_half_bad": true,
       "skillful": true,
+      "tanuki_in_the_fog": {
+        "unlocked": false,
+        "progress": 0,
+        "goal": 1
+      },
       "zealous": true
     }
   }
