@@ -817,8 +817,8 @@
         "goal": 1
       },
       "adept_yui": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "adept_yun_jin": {
@@ -892,8 +892,8 @@
         "goal": 1
       },
       "hack_the_mainframe": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "hemophobia": {
@@ -937,8 +937,8 @@
         "goal": 1
       },
       "rebuilding_the_borgo": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "shock_therapy": {
@@ -947,8 +947,8 @@
         "goal": 1
       },
       "shrine_apparatus": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "unforgettable_getaway": true
@@ -957,8 +957,8 @@
       "agonizing_escape": true,
       "apt_survivor": true,
       "backdoor_escape": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "bless_you": {
@@ -1034,8 +1034,8 @@
         "goal": 45
       },
       "fearless_healer": {
-        "unlocked": false,
-        "progress": 20,
+        "unlocked": true,
+        "progress": 25,
         "goal": 25
       },
       "final_days": true,
@@ -1046,8 +1046,8 @@
       },
       "hand_eye_coordination": true,
       "handyman": {
-        "unlocked": false,
-        "progress": 93,
+        "unlocked": true,
+        "progress": 100,
         "goal": 100
       },
       "healthy_obsession": true,
@@ -1136,8 +1136,8 @@
       },
       "one_more_step": true,
       "outrun_evil": {
-        "unlocked": false,
-        "progress": 0,
+        "unlocked": true,
+        "progress": 1,
         "goal": 1
       },
       "perfect_escape": true,
